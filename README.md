@@ -11,29 +11,30 @@
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+<table align="center" cellspacing="0" cellpadding="0" style="border:none;">
+<tr>
+<td width="50%" align="left" style="border:none;">
 
-* 🎓 BCA Undergraduate, with strong foundations in **Computer Science & Mathematics**
-* 🔭 Currently working on **Machine Learning**, **Full-Stack Development**, and **Research-oriented projects**
-* 🌱 Actively learning **System Design**, **Advanced ML**, and **Cloud Fundamentals**
-* 👯 Open to collaborating on **ML, Data Science, and Software Engineering projects**
-* 🤔 Interested in solving **real-world problems using data & scalable systems**
-* ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`
-* 💬 Ask me about **Machine Learning**, **Python**, **Data Analysis**, **Web Development**
-* Reach me at: **gurarpit.sml@gmail.com**
-
+- 🎓 BCA Undergraduate (CGPA: **9.24**) with strong foundations in **Computer Science & Mathematics**
+- 🔭 Currently working on **Machine Learning**, **Full-Stack Development**, and **Research-oriented projects**
+- 🌱 Actively learning **System Design**, **Advanced ML**, and **Cloud Fundamentals**
+- 👯 Open to collaborating on **ML, Data Science, and Software Engineering projects**
+- 🤔 Interested in solving **real-world problems using data & scalable systems**
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`
+- 💬 Ask me about **Machine Learning**, **Python**, **Data Analysis**, **Web Development**
+- 📫 Reach me at: **gurarpit.sml@gmail.com**
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="border:none;">
 
-<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="center" alt="Coding" width="450"
+src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 </td>
 </tr>
 </table>
+
 
 ---
 
