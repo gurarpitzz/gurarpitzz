@@ -16,7 +16,7 @@
 <tr>
 <td width="50%" align="left" style="border:none;">
 
-- 🎓 BCA Undergraduate (CGPA: **9.24**) with strong foundations in **Computer Science & Mathematics**
+- 🎓 BCA Undergraduate, with strong foundations in **Computer Science & Mathematics**
 - 🔭 Currently working on **Machine Learning**, **Full-Stack Development**, and **Research-oriented projects**
 - 🌱 Actively learning **System Design**, **Advanced ML**, and **Cloud Fundamentals**
 - 👯 Open to collaborating on **ML, Data Science, and Software Engineering projects**
