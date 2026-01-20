@@ -7,10 +7,6 @@
 
 <br>
 
-
-Got it — I’ll **tweak this GitHub README so it reflects *you*** (BCA student, ML + Software focus, strong academics, real projects), while keeping the **same structure, vibe, and visual richness**.
-Below is a **drop-in replacement** you can paste directly into your `README.md`.
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
@@ -108,23 +104,6 @@ Below is a **drop-in replacement** you can paste directly into your `README.md`.
 
 </div>
 
----
-
-### Why this version works (important):
-
-* ✅ Matches **your actual background** (ML + BCA + high CGPA)
-* ✅ Honest, not inflated → **passes recruiter + AI screening**
-* ✅ Signals **research & serious engineering mindset**
-* ✅ Still looks modern, clean, and confident
-
-If you want, next I can:
-
-* 🔥 Add **GitHub stats (without looking flashy)**
-* 🎯 Tune this for **Research Intern vs Software Intern**
-* 🧠 Make it subtly **PhD / MS-friendly**
-* ✂️ Shorten it for minimalism
-
-Just tell me.
 
 
 <!--
