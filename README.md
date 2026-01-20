@@ -100,7 +100,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen" alt="Profile Views"/>
 
 </div>
 
