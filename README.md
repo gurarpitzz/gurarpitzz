@@ -8,33 +8,25 @@
 <br>
 
 
+Got it — I’ll **tweak this GitHub README so it reflects *you*** (BCA student, ML + Software focus, strong academics, real projects), while keeping the **same structure, vibe, and visual richness**.
+Below is a **drop-in replacement** you can paste directly into your `README.md`.
+
+---
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
-
-
 <table align="center">
-
 <tr border="none">
-
 <td width="50%" align="left">
 
-
-
-- 🔭 I'm currently working on `Fullstack` Development and `Open Source`
-
-- 🌱 I'm currently learning `Cloud Technologies` and `System Design`
-
-- 👯 I'm looking to collaborate with other Developers on innovative projects
-
-- 🤔 I'm looking for help with scaling applications
-
-- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.jsx`, `.css`
-
-- 💬 Ping me about **Web Development**, **DevOps**, **Software Architecture**, **Cloud Computing**
-
-- 📫 How to reach me: vaad63500@gmail.com
-
+* 🎓 BCA Undergraduate, with strong foundations in **Computer Science & Mathematics**
+* 🔭 Currently working on **Machine Learning**, **Full-Stack Development**, and **Research-oriented projects**
+* 🌱 Actively learning **System Design**, **Advanced ML**, and **Cloud Fundamentals**
+* 👯 Open to collaborating on **ML, Data Science, and Software Engineering projects**
+* 🤔 Interested in solving **real-world problems using data & scalable systems**
+* ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`
+* 💬 Ask me about **Machine Learning**, **Python**, **Data Analysis**, **Web Development**
+* Reach me at: **gurarpit.sml@gmail.com**
 
 
 </td>
@@ -44,145 +36,96 @@
 <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 </td>
-
 </tr>
-
 </table>
 
-
+---
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
-
-
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-
+<a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-
-</a>
-
-<a href="https://graphql.org" target="_blank" rel="noreferrer">
-
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </a>
 
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px"></img> My Projects
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px"></img> My Projects
+
 <table align="center" style="width:100%">
-<tr border="none">
-<td width="33.33%" align="center">
-<a href="https://aadigarg.life" target="_blank">
-<strong>Portfolio</strong>
-</a>
-</td>
-<td width="33.33%" align="center">
-<a href="https://typems.app" target="_blank">
-<strong>TypeMS</strong>
-</a>
-</td>
-<td width="33.33%" align="center">
-<a href="https://nivii.app" target="_blank">
-<strong>Nivii</strong>
-</a>
-</td>
+<tr>
+<td width="33%" align="center"><strong>ARES</strong><br/>Fake News Detection (ML Pipeline)</td>
+<td width="33%" align="center"><strong>BeCured</strong><br/>ML-based Health Diagnostics</td>
+<td width="33%" align="center"><strong>MNIST Classifier</strong><br/>Handwritten Digit Recognition</td>
 </tr>
-<tr border="none">
-<td width="33.33%" align="center">
-<a href="https://star.aadigarg.life" target="_blank">
-<strong>Star</strong>
-</a>
-</td>
-<td width="33.33%" align="center">
-<a href="https://sol.aadigarg.life" target="_blank">
-<strong>Sol</strong>
-</a>
-</td>
-<td width="33.33%" align="center">
-<a href="https://wewatch.aadigarg.life" target="_blank">
-<strong>WeWatch</strong>
-</a>
-</td>
+<tr>
+<td width="33%" align="center"><strong>Git User Finder</strong><br/>API-based Web App</td>
+<td width="33%" align="center"><strong>Game Data Analysis</strong><br/>Matplotlib Visualization</td>
+<td width="33%" align="center"><strong>Keypad Mapping</strong><br/>Algorithmic Problem</td>
 </tr>
 </table>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=your-username&color=brightgreen" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen" alt="Profile Views"/>
 
 </div>
-## Hi there 👋
+
+---
+
+### Why this version works (important):
+
+* ✅ Matches **your actual background** (ML + BCA + high CGPA)
+* ✅ Honest, not inflated → **passes recruiter + AI screening**
+* ✅ Signals **research & serious engineering mindset**
+* ✅ Still looks modern, clean, and confident
+
+If you want, next I can:
+
+* 🔥 Add **GitHub stats (without looking flashy)**
+* 🎯 Tune this for **Research Intern vs Software Intern**
+* 🧠 Make it subtly **PhD / MS-friendly**
+* ✂️ Shorten it for minimalism
+
+Just tell me.
+
 
 <!--
 **gurarpitzz/gurarpitzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
