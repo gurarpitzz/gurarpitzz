@@ -89,7 +89,7 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 <tr>
 <td width="33%" align="center">
 
-### 🧠 SRME
+###  SRME
 **Semantic Research Matchmaking Engine**
 
 Ingests university directories, builds a semantic index of researchers & papers, and matches collaborators using NLP embeddings.
@@ -98,7 +98,7 @@ Ingests university directories, builds a semantic index of researchers & papers,
 
 <td width="33%" align="center">
 
-### 🛡️ ARES
+###  ARES
 **Evidence-Based Misinformation Verification Engine**
 
 A mathematically grounded fake-news detection system using evidence aggregation  
@@ -119,7 +119,7 @@ Deep learning system for early detection of diabetic retinopathy and kidney dise
 <tr>
 <td width="33%" align="center">
 
-### 🧩 Medical History Classification (LangGraph)
+###  Medical History Classification (LangGraph)
 
 LLM + LangGraph pipeline for structured medical record classification and reasoning.
 
@@ -127,7 +127,7 @@ LLM + LangGraph pipeline for structured medical record classification and reason
 
 <td width="33%" align="center">
 
-### ⚙️ Graphic Shop Workflow Automation
+### Graphic Shop Workflow Automation
 
 Full workflow automation system for managing orders, design pipeline, and delivery tracking.
 
@@ -135,7 +135,7 @@ Full workflow automation system for managing orders, design pipeline, and delive
 
 <td width="33%" align="center">
 
-### 📊 Physics Simulation — Pendulum
+### Physics Simulation — Pendulum
 
 Numerical simulation & visualization of physical systems using Python and matplotlib.
 
