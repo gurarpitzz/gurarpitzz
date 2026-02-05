@@ -83,20 +83,66 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px"></img> My Projects
+## 🚀 Featured Projects
 
 <table align="center" style="width:100%">
 <tr>
-<td width="33%" align="center"><strong>ARES</strong><br/>Fake News Detection (ML Pipeline)</td>
-<td width="33%" align="center"><strong>BeCured</strong><br/>ML-based Health Diagnostics</td>
-<td width="33%" align="center"><strong>MNIST Classifier</strong><br/>Handwritten Digit Recognition</td>
+<td width="33%" align="center">
+
+### 🧠 SRME
+**Semantic Research Matchmaking Engine**
+
+Ingests university directories, builds a semantic index of researchers & papers, and matches collaborators using NLP embeddings.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🛡️ ARES
+**Evidence-Based Misinformation Verification Engine**
+
+A mathematically grounded fake-news detection system using evidence aggregation  
+V(C) = f(R, S, N, W)
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏥 BeCured
+**AI for Early Disease Diagnosis**
+
+Deep learning system for early detection of diabetic retinopathy and kidney disease from medical imaging.
+
+</td>
 </tr>
+
 <tr>
-<td width="33%" align="center"><strong>Git User Finder</strong><br/>API-based Web App</td>
-<td width="33%" align="center"><strong>Game Data Analysis</strong><br/>Matplotlib Visualization</td>
-<td width="33%" align="center"><strong>Keypad Mapping</strong><br/>Algorithmic Problem</td>
+<td width="33%" align="center">
+
+### 🧩 Medical History Classification (LangGraph)
+
+LLM + LangGraph pipeline for structured medical record classification and reasoning.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Graphic Shop Workflow Automation
+
+Full workflow automation system for managing orders, design pipeline, and delivery tracking.
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊 Physics Simulation — Pendulum
+
+Numerical simulation & visualization of physical systems using Python and matplotlib.
+
+</td>
 </tr>
 </table>
+
 
 ---
 
