@@ -108,7 +108,7 @@ V(C) = f(R, S, N, W)
 
 <td width="33%" align="center">
 
-### 🏥 BeCured
+### BeCured
 **AI for Early Disease Diagnosis**
 
 Deep learning system for early detection of diabetic retinopathy and kidney disease from medical imaging.
