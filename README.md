@@ -10,20 +10,26 @@
 
 ---
 
-# About Me
+# About
 
 <table align="center" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
 <td width="50%" align="left" style="border:none;">
 
-- 🎓 BCA Undergraduate, with strong foundations in **Computer Science & Mathematics**
-- 🔭 Currently working on **Machine Learning**, **Full-Stack Development**, and **Research-oriented projects**
-- 🌱 Actively learning **System Design**, **Advanced ML**, and **Cloud Fundamentals**
-- 👯 Open to collaborating on **ML, Data Science, and Software Engineering projects**
-- 🤔 Interested in solving **real-world problems using data & scalable systems**
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`
-- 💬 Ask me about **Machine Learning**, **Python**, **Data Analysis**, **Web Development**
-- 📫 Reach me at: **gurarpit.sml@gmail.com**
+I am a BCA undergraduate with strong foundations in computer science, mathematics, and applied machine learning.  
+My work centers around building research-grade ML systems, scalable software architectures, and data-driven applications.
+
+My primary interests include:
+
+- Machine Learning for real-world problem solving
+- System Design and scalable architectures
+- Research automation and knowledge systems
+- Full-stack engineering for intelligent applications
+- Applying mathematics and data to practical systems
+
+I actively work with Python and JavaScript to build systems that combine data, logic, and usability.
+
+**Contact:** gurarpit.sml@gmail.com
 
 </td>
 
@@ -36,8 +42,8 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 </tr>
 </table>
 
-
 ---
+
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
@@ -89,29 +95,26 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 <tr>
 <td width="33%" align="center">
 
-###  SRME
+### SRME  
 **Semantic Research Matchmaking Engine**
 
-Ingests university directories, builds a semantic index of researchers & papers, and matches collaborators using NLP embeddings.
+Research intelligence platform that crawls university faculty directories, builds a semantic index of researchers and publications, and enables collaborator discovery using NLP embeddings and knowledge graphs.
 
 </td>
 
 <td width="33%" align="center">
 
-###  ARES
-**Evidence-Based Misinformation Verification Engine**
+### VibroBraille — Braille-First AI Reading Interface
 
-A mathematically grounded fake-news detection system using evidence aggregation  
-V(C) = f(R, S, N, W)
+Accessibility system that converts documents and text into sequential Braille patterns using haptic feedback. Designed as a mobile-first assistive interface for visually impaired users.
 
 </td>
 
 <td width="33%" align="center">
 
-### BeCured
-**AI for Early Disease Diagnosis**
+### EconoTwin-X — Personal Economic Digital Twin
 
-Deep learning system for early detection of diabetic retinopathy and kidney disease from medical imaging.
+Interactive economic simulation engine that models public corporations, private labels, and causal market relationships using graph topology and real-time visualization.
 
 </td>
 </tr>
@@ -119,32 +122,35 @@ Deep learning system for early detection of diabetic retinopathy and kidney dise
 <tr>
 <td width="33%" align="center">
 
-###  Medical History Classification (LangGraph)
+### ARES  
+**Evidence-Based Misinformation Verification Engine**
 
-LLM + LangGraph pipeline for structured medical record classification and reasoning.
+A mathematically grounded misinformation detection system based on evidence aggregation:
 
-</td>
-
-<td width="33%" align="center">
-
-### Graphic Shop Workflow Automation
-
-Full workflow automation system for managing orders, design pipeline, and delivery tracking.
+**V(C) = f(R, S, N, W)**
 
 </td>
 
 <td width="33%" align="center">
 
-### Physics Simulation — Pendulum
+### Medical Record Classification (LangGraph)
 
-Numerical simulation & visualization of physical systems using Python and matplotlib.
+LLM + LangGraph pipeline for structured medical history classification, reasoning, and decision flow across unstructured clinical documents.
+
+</td>
+
+<td width="33%" align="center">
+
+### BeCured — Early Disease Diagnosis
+
+Deep learning system for early detection of diabetic retinopathy and kidney disease from medical imaging data.
 
 </td>
 </tr>
 </table>
 
-
 ---
+
 
 <div align="center">
 
