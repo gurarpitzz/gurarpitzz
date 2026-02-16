@@ -29,7 +29,7 @@ My primary interests include:
 
 I actively work with Python and JavaScript to build systems that combine data, logic, and usability.
 
-**Contact:** gurarpit.sml@gmail.com
+**Contact:** gurarpit.sml@gmail.com <br>
 **Wanna Know me?** https://gurarpits.vercel.app
 
 </td>
