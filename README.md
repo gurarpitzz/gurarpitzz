@@ -92,63 +92,52 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 
 ## 🚀 Featured Projects
 
-<table align="center" style="width:100%">
+<table align="center" width="100%">
 <tr>
+
 <td width="33%" align="center">
-
-### SRME  
-**Semantic Research Matchmaking Engine**
-
-Research intelligence platform that crawls university faculty directories, builds a semantic index of researchers and publications, and enables collaborator discovery using NLP embeddings and knowledge graphs.
-
+  <strong>SRME</strong><br/>
+  <em>Semantic Research Matchmaking Engine</em><br/><br/>
+  Indexed and structured <strong>500+ faculty profiles and publications</strong>, enabling collaborator discovery using NLP embeddings and semantic search.
 </td>
 
 <td width="33%" align="center">
-
-### VibroBraille — Braille-First AI Reading Interface
-
-Accessibility system that converts documents and text into sequential Braille patterns using haptic feedback. Designed as a mobile-first assistive interface for visually impaired users.
-
+  <strong>VibroBraille</strong><br/>
+  <em>Braille-First AI Reading Interface</em><br/><br/>
+  Accessibility system that converts text into <strong>real-time Braille vibration patterns</strong> using mobile haptics and WebSocket orchestration.
 </td>
 
 <td width="33%" align="center">
-
-### EconoTwin-X — Personal Economic Digital Twin
-
-Interactive economic simulation engine that models public corporations, private labels, and causal market relationships using graph topology and real-time visualization.
-
+  <strong>Developer Portfolio</strong><br/>
+  <em>Backend · ML · Data Systems</em><br/><br/>
+  Personal portfolio showcasing backend engineering, ML systems, and decision-support workflows built with modern web tooling.
 </td>
+
 </tr>
 
 <tr>
+
 <td width="33%" align="center">
-
-### ARES  
-**Evidence-Based Misinformation Verification Engine**
-
-A mathematically grounded misinformation detection system based on evidence aggregation:
-
-**V(C) = f(R, S, N, W)**
-
+  <strong>ARES</strong><br/>
+  <em>Evidence-Based Misinformation Verification Engine</em><br/><br/>
+  Multi-stage NLP pipeline that aggregates evidence and computes <strong>interpretable credibility scores</strong> instead of binary fact labels.
 </td>
 
 <td width="33%" align="center">
-
-### Medical Record Classification (LangGraph)
-
-LLM + LangGraph pipeline for structured medical history classification, reasoning, and decision flow across unstructured clinical documents.
-
+  <strong>AETHER</strong><br/>
+  <em>Smart Honeypot for Threat Intelligence</em><br/><br/>
+  Lightweight honeypot system that <strong>captures and analyzes real-world attack signals</strong> to study reconnaissance and intrusion behavior.
 </td>
 
 <td width="33%" align="center">
-
-### BeCured — Early Disease Diagnosis
-
-Deep learning system for early detection of diabetic retinopathy and kidney disease from medical imaging data.
-
+  <strong>BeCured</strong><br/>
+  <em>Early Disease Diagnosis Support</em><br/><br/>
+  Deep learning workflow for <strong>early disease indicator detection</strong> from medical imaging, with emphasis on interpretability.
 </td>
+
 </tr>
 </table>
+
 
 ---
 
