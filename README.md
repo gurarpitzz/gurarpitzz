@@ -90,7 +90,7 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table align="center" width="100%">
 <tr>
